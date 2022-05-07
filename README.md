@@ -1,5 +1,5 @@
 # Tabular Modelling using Artificial Neural Network (from scratch)
-Tabular Modelling for (Imbalanced) Classification Problem using TargetEncoder+SMOTE+Artificial Neural Network (from scratch). We also use SVM, Logistic Regression, DecisionTree, and XGBoost as a baseline model.
+Tabular Modelling for (Imbalanced) Classification Problem using TargetEncoder+Artificial Neural Network (from scratch). All building blocks of neural network have created from scratch including Forward, Backward, even ADAM.
 
 Ryan Abdurohman 1301191171<br>
 Arbrian Satria Hananda 1301190455<br>
